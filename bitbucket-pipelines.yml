@@ -1,0 +1,14 @@
+pipelines:
+  branches:
+    main:
+    - step:
+        name: Deploy to staging
+        deployment: staging
+        script:
+          - echo "Deploying to staging environment... "
+          - pipe: atlassian/ssh-run:0.4.0
+            variables:
+              SSH_USER: $SSH_USER
+              SERVER: $SERVER_IP
+              MODE: "command"
+              COMMAND: "/root/bitbucket_deployment/backend-staging.sh"

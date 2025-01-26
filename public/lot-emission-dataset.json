@@ -1,0 +1,1250 @@
+[
+    {
+        "country": "Aruba",
+        "co2_yearly": 4.25,
+        "co2_monthly": 0.35,
+        "fossil_co2_yearly_emission": "455.1"
+    },
+    {
+        "country": "Afghanistan",
+        "co2_yearly": 0.14,
+        "co2_monthly": 0.01,
+        "fossil_co2_yearly_emission": "5,675.80"
+    },
+    {
+        "country": "Angola",
+        "co2_yearly": 0.58,
+        "co2_monthly": 0.05,
+        "fossil_co2_yearly_emission": "20,185.70"
+    },
+    {
+        "country": "Anguilla",
+        "co2_yearly": 1.52,
+        "co2_monthly": 0.13,
+        "fossil_co2_yearly_emission": "22.8"
+    },
+    {
+        "country": "Albania",
+        "co2_yearly": 1.52,
+        "co2_monthly": 0.13,
+        "fossil_co2_yearly_emission": "4,486.20"
+    },
+    {
+        "country": "Netherlands Antilles",
+        "co2_yearly": 12.41,
+        "co2_monthly": 1.03,
+        "fossil_co2_yearly_emission": "2,046.80"
+    },
+    {
+        "country": "United Arab Emirates",
+        "co2_yearly": 21.75,
+        "co2_monthly": 1.81,
+        "fossil_co2_yearly_emission": "218,799.30"
+    },
+    {
+        "country": "Argentina",
+        "co2_yearly": 3.97,
+        "co2_monthly": 0.33,
+        "fossil_co2_yearly_emission": "184,037.20"
+    },
+    {
+        "country": "Armenia",
+        "co2_yearly": 2.15,
+        "co2_monthly": 0.18,
+        "fossil_co2_yearly_emission": "6,326.50"
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "co2_yearly": 2.59,
+        "co2_monthly": 0.22,
+        "fossil_co2_yearly_emission": "277.7"
+    },
+    {
+        "country": "Australia",
+        "co2_yearly": 15.12,
+        "co2_monthly": 1.26,
+        "fossil_co2_yearly_emission": "393,162.50"
+    },
+    {
+        "country": "Austria",
+        "co2_yearly": 6.94,
+        "co2_monthly": 0.58,
+        "fossil_co2_yearly_emission": "61,174.50"
+    },
+    {
+        "country": "Azerbaijan",
+        "co2_yearly": 3.62,
+        "co2_monthly": 0.3,
+        "fossil_co2_yearly_emission": "37,129.60"
+    },
+    {
+        "country": "Burundi",
+        "co2_yearly": 0.07,
+        "co2_monthly": 0.01,
+        "fossil_co2_yearly_emission": "924.2"
+    },
+    {
+        "country": "Belgium",
+        "co2_yearly": 7.72,
+        "co2_monthly": 0.64,
+        "fossil_co2_yearly_emission": "90,414.90"
+    },
+    {
+        "country": "Benin",
+        "co2_yearly": 0.75,
+        "co2_monthly": 0.06,
+        "fossil_co2_yearly_emission": "9,619.50"
+    },
+    {
+        "country": "Burkina Faso",
+        "co2_yearly": 0.26,
+        "co2_monthly": 0.02,
+        "fossil_co2_yearly_emission": "5,820.50"
+    },
+    {
+        "country": "Bangladesh",
+        "co2_yearly": 0.63,
+        "co2_monthly": 0.05,
+        "fossil_co2_yearly_emission": "109,075.30"
+    },
+    {
+        "country": "Bulgaria",
+        "co2_yearly": 7.32,
+        "co2_monthly": 0.61,
+        "fossil_co2_yearly_emission": "50,103.30"
+    },
+    {
+        "country": "Bahrain",
+        "co2_yearly": 21.31,
+        "co2_monthly": 1.78,
+        "fossil_co2_yearly_emission": "37,955.10"
+    },
+    {
+        "country": "Bahamas",
+        "co2_yearly": 3.49,
+        "co2_monthly": 0.29,
+        "fossil_co2_yearly_emission": "1,446.20"
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "co2_yearly": 6.26,
+        "co2_monthly": 0.52,
+        "fossil_co2_yearly_emission": "21,826.70"
+    },
+    {
+        "country": "Belarus",
+        "co2_yearly": 6.12,
+        "co2_monthly": 0.51,
+        "fossil_co2_yearly_emission": "57,411.40"
+    },
+    {
+        "country": "Belize",
+        "co2_yearly": 0.65,
+        "co2_monthly": 0.05,
+        "fossil_co2_yearly_emission": "269.4"
+    },
+    {
+        "country": "Bermuda",
+        "co2_yearly": 5.29,
+        "co2_monthly": 0.44,
+        "fossil_co2_yearly_emission": "317.5"
+    },
+    {
+        "country": "Bolivia",
+        "co2_yearly": 1.85,
+        "co2_monthly": 0.15,
+        "fossil_co2_yearly_emission": "21,959.50"
+    },
+    {
+        "country": "Brazil",
+        "co2_yearly": 2.15,
+        "co2_monthly": 0.18,
+        "fossil_co2_yearly_emission": "466,770.40"
+    },
+    {
+        "country": "Barbados",
+        "co2_yearly": 2.34,
+        "co2_monthly": 0.2,
+        "fossil_co2_yearly_emission": "674.2"
+    },
+    {
+        "country": "Brunei",
+        "co2_yearly": 20.65,
+        "co2_monthly": 1.72,
+        "fossil_co2_yearly_emission": "9,375.70"
+    },
+    {
+        "country": "Bhutan",
+        "co2_yearly": 2.01,
+        "co2_monthly": 0.17,
+        "fossil_co2_yearly_emission": "1,712.40"
+    },
+    {
+        "country": "Botswana",
+        "co2_yearly": 3.29,
+        "co2_monthly": 0.27,
+        "fossil_co2_yearly_emission": "8,213.70"
+    },
+    {
+        "country": "Central African Republic",
+        "co2_yearly": 0.05,
+        "co2_monthly": 0.0,
+        "fossil_co2_yearly_emission": "276.1"
+    },
+    {
+        "country": "Canada",
+        "co2_yearly": 15.22,
+        "co2_monthly": 1.27,
+        "fossil_co2_yearly_emission": "582,072.90"
+    },
+    {
+        "country": "Switzerland",
+        "co2_yearly": 4.11,
+        "co2_monthly": 0.34,
+        "fossil_co2_yearly_emission": "36,105.20"
+    },
+    {
+        "country": "Chile",
+        "co2_yearly": 4.96,
+        "co2_monthly": 0.41,
+        "fossil_co2_yearly_emission": "92,858.70"
+    },
+    {
+        "country": "China",
+        "co2_yearly": 8.85,
+        "co2_monthly": 0.74,
+        "fossil_co2_yearly_emission": "12,667,428.40"
+    },
+    {
+        "country": "Ivory coast",
+        "co2_yearly": 0.53,
+        "co2_monthly": 0.04,
+        "fossil_co2_yearly_emission": "14,491.90"
+    },
+    {
+        "country": "Cameroon",
+        "co2_yearly": 0.37,
+        "co2_monthly": 0.03,
+        "fossil_co2_yearly_emission": "10,080.20"
+    },
+    {
+        "country": "Democratic Republic of nthe congo",
+        "co2_yearly": 0.06,
+        "co2_monthly": 0.01,
+        "fossil_co2_yearly_emission": "3,551.80"
+    },
+    {
+        "country": "Republic of the congo",
+        "co2_yearly": 1.24,
+        "co2_monthly": 0.1,
+        "fossil_co2_yearly_emission": "7,435.80"
+    },
+    {
+        "country": "Cook islands",
+        "co2_yearly": 6.34,
+        "co2_monthly": 0.53,
+        "fossil_co2_yearly_emission": "107.8"
+    },
+    {
+        "country": "Colombia",
+        "co2_yearly": 1.74,
+        "co2_monthly": 0.15,
+        "fossil_co2_yearly_emission": "88,469.80"
+    },
+    {
+        "country": "Comoros",
+        "co2_yearly": 0.38,
+        "co2_monthly": 0.03,
+        "fossil_co2_yearly_emission": "342.9"
+    },
+    {
+        "country": "Cape verde",
+        "co2_yearly": 1.74,
+        "co2_monthly": 0.15,
+        "fossil_co2_yearly_emission": "1,015.00"
+    },
+    {
+        "country": "Costa rica",
+        "co2_yearly": 1.68,
+        "co2_monthly": 0.14,
+        "fossil_co2_yearly_emission": "8,608.40"
+    },
+    {
+        "country": "Cuba",
+        "co2_yearly": 2.15,
+        "co2_monthly": 0.18,
+        "fossil_co2_yearly_emission": "24,770.80"
+    },
+    {
+        "country": "Cayman islands",
+        "co2_yearly": 4.73,
+        "co2_monthly": 0.39,
+        "fossil_co2_yearly_emission": "307.2"
+    },
+    {
+        "country": "Cyprus",
+        "co2_yearly": 6.1,
+        "co2_monthly": 0.51,
+        "fossil_co2_yearly_emission": "7,460.30"
+    },
+    {
+        "country": "Czech Republic",
+        "co2_yearly": 9.56,
+        "co2_monthly": 0.8,
+        "fossil_co2_yearly_emission": "101,544.70"
+    },
+    {
+        "country": "Germany",
+        "co2_yearly": 8.16,
+        "co2_monthly": 0.68,
+        "fossil_co2_yearly_emission": "673,595.30"
+    },
+    {
+        "country": "Djibouti",
+        "co2_yearly": 0.74,
+        "co2_monthly": 0.06,
+        "fossil_co2_yearly_emission": "761.1"
+    },
+    {
+        "country": "Dominica",
+        "co2_yearly": 0.92,
+        "co2_monthly": 0.08,
+        "fossil_co2_yearly_emission": "68.8"
+    },
+    {
+        "country": "Denmark",
+        "co2_yearly": 4.99,
+        "co2_monthly": 0.42,
+        "fossil_co2_yearly_emission": "29,158.80"
+    },
+    {
+        "country": "Dominican Republic",
+        "co2_yearly": 2.07,
+        "co2_monthly": 0.17,
+        "fossil_co2_yearly_emission": "23,457.00"
+    },
+    {
+        "country": "Algeria",
+        "co2_yearly": 3.97,
+        "co2_monthly": 0.33,
+        "fossil_co2_yearly_emission": "177,079.40"
+    },
+    {
+        "country": "Ecuador",
+        "co2_yearly": 2.59,
+        "co2_monthly": 0.22,
+        "fossil_co2_yearly_emission": "46,106.90"
+    },
+    {
+        "country": "Egypt",
+        "co2_yearly": 2.5,
+        "co2_monthly": 0.21,
+        "fossil_co2_yearly_emission": "265,961.30"
+    },
+    {
+        "country": "Eritrea",
+        "co2_yearly": 0.14,
+        "co2_monthly": 0.01,
+        "fossil_co2_yearly_emission": "804.7"
+    },
+    {
+        "country": "Western Sahara",
+        "co2_yearly": 0.4,
+        "co2_monthly": 0.03,
+        "fossil_co2_yearly_emission": "241.5"
+    },
+    {
+        "country": "Spain",
+        "co2_yearly": 5.5,
+        "co2_monthly": 0.46,
+        "fossil_co2_yearly_emission": "254,363.40"
+    },
+    {
+        "country": "Estonia",
+        "co2_yearly": 8.4,
+        "co2_monthly": 0.7,
+        "fossil_co2_yearly_emission": "10,847.90"
+    },
+    {
+        "country": "Ethiopia",
+        "co2_yearly": 0.2,
+        "co2_monthly": 0.02,
+        "fossil_co2_yearly_emission": "21,106.90"
+    },
+    {
+        "country": "Finland",
+        "co2_yearly": 6.6,
+        "co2_monthly": 0.55,
+        "fossil_co2_yearly_emission": "37,324.70"
+    },
+    {
+        "country": "Fiji",
+        "co2_yearly": 1.8,
+        "co2_monthly": 0.15,
+        "fossil_co2_yearly_emission": "1,692.90"
+    },
+    {
+        "country": "Falkland Islands",
+        "co2_yearly": 7.3,
+        "co2_monthly": 0.61,
+        "fossil_co2_yearly_emission": "21.8"
+    },
+    {
+        "country": "France",
+        "co2_yearly": 4.8,
+        "co2_monthly": 0.4,
+        "fossil_co2_yearly_emission": "315,299.50"
+    },
+    {
+        "country": "Faroe islands",
+        "co2_yearly": 0.1,
+        "co2_monthly": 0.01,
+        "fossil_co2_yearly_emission": "2.1"
+    },
+    {
+        "country": "Gabon",
+        "co2_yearly": 2.6,
+        "co2_monthly": 0.22,
+        "fossil_co2_yearly_emission": "5,516.60"
+    },
+    {
+        "country": "United Kingdom",
+        "co2_yearly": 5.0,
+        "co2_monthly": 0.42,
+        "fossil_co2_yearly_emission": "340,610.30"
+    },
+    {
+        "country": "Georgia",
+        "co2_yearly": 3.2,
+        "co2_monthly": 0.27,
+        "fossil_co2_yearly_emission": "12,013.90"
+    },
+    {
+        "country": "Ghana",
+        "co2_yearly": 0.8,
+        "co2_monthly": 0.07,
+        "fossil_co2_yearly_emission": "24,453.00"
+    },
+    {
+        "country": "Gilbraltar",
+        "co2_yearly": 19.0,
+        "co2_monthly": 1.58,
+        "fossil_co2_yearly_emission": "663.6"
+    },
+    {
+        "country": "Guinea",
+        "co2_yearly": 0.3,
+        "co2_monthly": 0.03,
+        "fossil_co2_yearly_emission": "3,801.70"
+    },
+    {
+        "country": "Guadeloupe",
+        "co2_yearly": 2.0,
+        "co2_monthly": 0.17,
+        "fossil_co2_yearly_emission": "904.5"
+    },
+    {
+        "country": "Gambia",
+        "co2_yearly": 0.3,
+        "co2_monthly": 0.03,
+        "fossil_co2_yearly_emission": "611.7"
+    },
+    {
+        "country": "Guinea-Bissau",
+        "co2_yearly": 0.2,
+        "co2_monthly": 0.02,
+        "fossil_co2_yearly_emission": "350.1"
+    },
+    {
+        "country": "Equatorial Guinea",
+        "co2_yearly": 3.4,
+        "co2_monthly": 0.28,
+        "fossil_co2_yearly_emission": "5,053.90"
+    },
+    {
+        "country": "Greece",
+        "co2_yearly": 5.2,
+        "co2_monthly": 0.43,
+        "fossil_co2_yearly_emission": "56,777.10"
+    },
+    {
+        "country": "Grenada",
+        "co2_yearly": 1.1,
+        "co2_monthly": 0.09,
+        "fossil_co2_yearly_emission": "122.5"
+    },
+    {
+        "country": "Greenland",
+        "co2_yearly": 8.2,
+        "co2_monthly": 0.68,
+        "fossil_co2_yearly_emission": "465.9"
+    },
+    {
+        "country": "Guatemala",
+        "co2_yearly": 1.1,
+        "co2_monthly": 0.09,
+        "fossil_co2_yearly_emission": "20,090.10"
+    },
+    {
+        "country": "French Guiana",
+        "co2_yearly": 1.1,
+        "co2_monthly": 0.09,
+        "fossil_co2_yearly_emission": "354.6"
+    },
+    {
+        "country": "Guyana",
+        "co2_yearly": 4.8,
+        "co2_monthly": 0.4,
+        "fossil_co2_yearly_emission": "3,804.00"
+    },
+    {
+        "country": "Hong Kong",
+        "co2_yearly": 4.3,
+        "co2_monthly": 0.36,
+        "fossil_co2_yearly_emission": "32,439.20"
+    },
+    {
+        "country": "Honduras",
+        "co2_yearly": 1.1,
+        "co2_monthly": 0.09,
+        "fossil_co2_yearly_emission": "10,612.60"
+    },
+    {
+        "country": "Croatia",
+        "co2_yearly": 4.2,
+        "co2_monthly": 0.35,
+        "fossil_co2_yearly_emission": "17,225.00"
+    },
+    {
+        "country": "Haiti",
+        "co2_yearly": 0.3,
+        "co2_monthly": 0.03,
+        "fossil_co2_yearly_emission": "3,437.00"
+    },
+    {
+        "country": "Hungary",
+        "co2_yearly": 5.0,
+        "co2_monthly": 0.42,
+        "fossil_co2_yearly_emission": "47,291.90"
+    },
+    {
+        "country": "Indonesia",
+        "co2_yearly": 2.5,
+        "co2_monthly": 0.21,
+        "fossil_co2_yearly_emission": "692,236.10"
+    },
+    {
+        "country": "India",
+        "co2_yearly": 1.9,
+        "co2_monthly": 0.16,
+        "fossil_co2_yearly_emission": "2,693,034.10"
+    },
+    {
+        "country": "Ireland",
+        "co2_yearly": 7.6,
+        "co2_monthly": 0.63,
+        "fossil_co2_yearly_emission": "37,785.60"
+    },
+    {
+        "country": "Iran",
+        "co2_yearly": 8.1,
+        "co2_monthly": 0.68,
+        "fossil_co2_yearly_emission": "686,415.70"
+    },
+    {
+        "country": "Iraq",
+        "co2_yearly": 4.4,
+        "co2_monthly": 0.37,
+        "fossil_co2_yearly_emission": "193,836.30"
+    },
+    {
+        "country": "Iceland",
+        "co2_yearly": 10.2,
+        "co2_monthly": 0.85,
+        "fossil_co2_yearly_emission": "3,558.30"
+    },
+    {
+        "country": "Isreal",
+        "co2_yearly": 4.2,
+        "co2_monthly": 0.35,
+        "fossil_co2_yearly_emission": "61,771.20"
+    },
+    {
+        "country": "Italy",
+        "co2_yearly": 5.5,
+        "co2_monthly": 0.46,
+        "fossil_co2_yearly_emission": "322,948.70"
+    },
+    {
+        "country": "Jamaica",
+        "co2_yearly": 2.1,
+        "co2_monthly": 0.18,
+        "fossil_co2_yearly_emission": "6,083.00"
+    },
+    {
+        "country": "Jordan",
+        "co2_yearly": 2.3,
+        "co2_monthly": 0.19,
+        "fossil_co2_yearly_emission": "23,578.90"
+    },
+    {
+        "country": "Japan",
+        "co2_yearly": 8.6,
+        "co2_monthly": 0.72,
+        "fossil_co2_yearly_emission": "1,082,645.40"
+    },
+    {
+        "country": "Kazakhstan",
+        "co2_yearly": 12.9,
+        "co2_monthly": 1.08,
+        "fossil_co2_yearly_emission": "245,886.30"
+    },
+    {
+        "country": "Kenya",
+        "co2_yearly": 0.4,
+        "co2_monthly": 0.03,
+        "fossil_co2_yearly_emission": "21,527.40"
+    },
+    {
+        "country": "Kyrgyzstan",
+        "co2_yearly": 1.6,
+        "co2_monthly": 0.13,
+        "fossil_co2_yearly_emission": "10,303.40"
+    },
+    {
+        "country": "Cambodia",
+        "co2_yearly": 1.0,
+        "co2_monthly": 0.08,
+        "fossil_co2_yearly_emission": "17,618.90"
+    },
+    {
+        "country": "Kiribati",
+        "co2_yearly": 0.6,
+        "co2_monthly": 0.05,
+        "fossil_co2_yearly_emission": "74"
+    },
+    {
+        "country": "Saint kitts and Nevis",
+        "co2_yearly": 1.8,
+        "co2_monthly": 0.15,
+        "fossil_co2_yearly_emission": "101.9"
+    },
+    {
+        "country": "South Korea",
+        "co2_yearly": 12.26,
+        "co2_monthly": 1.02,
+        "fossil_co2_yearly_emission": "635,503.00"
+    },
+    {
+        "country": "Kuwait",
+        "co2_yearly": 24.9,
+        "co2_monthly": 2.08,
+        "fossil_co2_yearly_emission": "110,119.60"
+    },
+    {
+        "country": "Laos",
+        "co2_yearly": 2.74,
+        "co2_monthly": 0.23,
+        "fossil_co2_yearly_emission": "20,125.90"
+    },
+    {
+        "country": "Lebanon",
+        "co2_yearly": 4.1,
+        "co2_monthly": 0.34,
+        "fossil_co2_yearly_emission": "23,766.10"
+    },
+    {
+        "country": "Liberia",
+        "co2_yearly": 0.3,
+        "co2_monthly": 0.03,
+        "fossil_co2_yearly_emission": "1622.8"
+    },
+    {
+        "country": "Libya",
+        "co2_yearly": 9.2,
+        "co2_monthly": 0.77,
+        "fossil_co2_yearly_emission": "62,743.00"
+    },
+    {
+        "country": "Saint Lucia",
+        "co2_yearly": 1.4,
+        "co2_monthly": 0.12,
+        "fossil_co2_yearly_emission": "254.8"
+    },
+    {
+        "country": "Sri lanka",
+        "co2_yearly": 0.9,
+        "co2_monthly": 0.08,
+        "fossil_co2_yearly_emission": "18,535.90"
+    },
+    {
+        "country": "Lesotho",
+        "co2_yearly": 0.3,
+        "co2_monthly": 0.03,
+        "fossil_co2_yearly_emission": "779"
+    },
+    {
+        "country": "Lithuania",
+        "co2_yearly": 4.7,
+        "co2_monthly": 0.39,
+        "fossil_co2_yearly_emission": "13,263.80"
+    },
+    {
+        "country": "Luxemborg",
+        "co2_yearly": 12.3,
+        "co2_monthly": 1.03,
+        "fossil_co2_yearly_emission": "7,586.80"
+    },
+    {
+        "country": "Latvia",
+        "co2_yearly": 3.6,
+        "co2_monthly": 0.3,
+        "fossil_co2_yearly_emission": "6,705.40"
+    },
+    {
+        "country": "Macau",
+        "co2_yearly": 3.3,
+        "co2_monthly": 0.28,
+        "fossil_co2_yearly_emission": "2,247.40"
+    },
+    {
+        "country": "Morocco",
+        "co2_yearly": 1.9,
+        "co2_monthly": 0.16,
+        "fossil_co2_yearly_emission": "72,642.00"
+    },
+    {
+        "country": "Moldova",
+        "co2_yearly": 2.2,
+        "co2_monthly": 0.18,
+        "fossil_co2_yearly_emission": "8,652.10"
+    },
+    {
+        "country": "Madagascar",
+        "co2_yearly": 0.11,
+        "co2_monthly": 0.01,
+        "fossil_co2_yearly_emission": "3,190.00"
+    },
+    {
+        "country": "Maldives",
+        "co2_yearly": 4.6,
+        "co2_monthly": 0.38,
+        "fossil_co2_yearly_emission": "2,181.10"
+    },
+    {
+        "country": "Mexico",
+        "co2_yearly": 3.6,
+        "co2_monthly": 0.3,
+        "fossil_co2_yearly_emission": "487,774.00"
+    },
+    {
+        "country": "North Macedonia",
+        "co2_yearly": 4.0,
+        "co2_monthly": 0.33,
+        "fossil_co2_yearly_emission": "8,336.50"
+    },
+    {
+        "country": "Mali",
+        "co2_yearly": 0.3,
+        "co2_monthly": 0.03,
+        "fossil_co2_yearly_emission": "6,726.00"
+    },
+    {
+        "country": "Malta",
+        "co2_yearly": 3.9,
+        "co2_monthly": 0.33,
+        "fossil_co2_yearly_emission": "1,715.40"
+    },
+    {
+        "country": "Myanmar",
+        "co2_yearly": 0.7,
+        "co2_monthly": 0.06,
+        "fossil_co2_yearly_emission": "37,394.00"
+    },
+    {
+        "country": "Mongolia",
+        "co2_yearly": 6.7,
+        "co2_monthly": 0.56,
+        "fossil_co2_yearly_emission": "22,095.30"
+    },
+    {
+        "country": "Mozambique",
+        "co2_yearly": 0.3,
+        "co2_monthly": 0.03,
+        "fossil_co2_yearly_emission": "10,028.20"
+    },
+    {
+        "country": "Mauritania",
+        "co2_yearly": 0.9,
+        "co2_monthly": 0.08,
+        "fossil_co2_yearly_emission": "4,611.60"
+    },
+    {
+        "country": "Martinique",
+        "co2_yearly": 2.3,
+        "co2_monthly": 0.19,
+        "fossil_co2_yearly_emission": "899.2"
+    },
+    {
+        "country": "Mauritius",
+        "co2_yearly": 3.4,
+        "co2_monthly": 0.28,
+        "fossil_co2_yearly_emission": "4,281.80"
+    },
+    {
+        "country": "Malawi",
+        "co2_yearly": 0.3,
+        "co2_monthly": 0.03,
+        "fossil_co2_yearly_emission": "5,627.50"
+    },
+    {
+        "country": "Malaysia",
+        "co2_yearly": 8.2,
+        "co2_monthly": 0.68,
+        "fossil_co2_yearly_emission": "277,531.80"
+    },
+    {
+        "country": "Namibia",
+        "co2_yearly": 1.5,
+        "co2_monthly": 0.13,
+        "fossil_co2_yearly_emission": "4,287.80"
+    },
+    {
+        "country": "New caledonia",
+        "co2_yearly": 18.2,
+        "co2_monthly": 1.52,
+        "fossil_co2_yearly_emission": "5,361.80"
+    },
+    {
+        "country": "Niger",
+        "co2_yearly": 0.1,
+        "co2_monthly": 0.01,
+        "fossil_co2_yearly_emission": "2,633.20"
+    },
+    {
+        "country": "Nigeria",
+        "co2_yearly": 0.6,
+        "co2_monthly": 0.05,
+        "fossil_co2_yearly_emission": "122,750.40"
+    },
+    {
+        "country": "Nicaragua",
+        "co2_yearly": 0.9,
+        "co2_monthly": 0.08,
+        "fossil_co2_yearly_emission": "5,734.40"
+    },
+    {
+        "country": "Netherlands",
+        "co2_yearly": 7.8,
+        "co2_monthly": 0.65,
+        "fossil_co2_yearly_emission": "134,663.60"
+    },
+    {
+        "country": "Norway",
+        "co2_yearly": 7.6,
+        "co2_monthly": 0.63,
+        "fossil_co2_yearly_emission": "42,283.70"
+    },
+    {
+        "country": "Nepal",
+        "co2_yearly": 0.5,
+        "co2_monthly": 0.04,
+        "fossil_co2_yearly_emission": "15,847.30"
+    },
+    {
+        "country": "New Zealand",
+        "co2_yearly": 6.6,
+        "co2_monthly": 0.55,
+        "fossil_co2_yearly_emission": "32,371.10"
+    },
+    {
+        "country": "Oman",
+        "co2_yearly": 17.1,
+        "co2_monthly": 1.43,
+        "fossil_co2_yearly_emission": "91,649.10"
+    },
+    {
+        "country": "Pakistan",
+        "co2_yearly": 0.9,
+        "co2_monthly": 0.08,
+        "fossil_co2_yearly_emission": "199,329.90"
+    },
+    {
+        "country": "Panama",
+        "co2_yearly": 2.6,
+        "co2_monthly": 0.22,
+        "fossil_co2_yearly_emission": "11,384.00"
+    },
+    {
+        "country": "Peru",
+        "co2_yearly": 1.8,
+        "co2_monthly": 0.15,
+        "fossil_co2_yearly_emission": "61,610.40"
+    },
+    {
+        "country": "Philippines",
+        "co2_yearly": 1.4,
+        "co2_monthly": 0.12,
+        "fossil_co2_yearly_emission": "155,380.90"
+    },
+    {
+        "country": "Palau",
+        "co2_yearly": 59.0,
+        "co2_monthly": 4.92,
+        "fossil_co2_yearly_emission": "1,357.10"
+    },
+    {
+        "country": "Papau New Guinea",
+        "co2_yearly": 0.5,
+        "co2_monthly": 0.04,
+        "fossil_co2_yearly_emission": "4715.9"
+    },
+    {
+        "country": "Poland",
+        "co2_yearly": 8.5,
+        "co2_monthly": 0.71,
+        "fossil_co2_yearly_emission": "321,954.00"
+    },
+    {
+        "country": "Puerto Rico",
+        "co2_yearly": 3.5,
+        "co2_monthly": 0.29,
+        "fossil_co2_yearly_emission": "12,616.60"
+    },
+    {
+        "country": "North Korea",
+        "co2_yearly": 2.1,
+        "co2_monthly": 0.18,
+        "fossil_co2_yearly_emission": "54,403.80"
+    },
+    {
+        "country": "Portugal",
+        "co2_yearly": 4.1,
+        "co2_monthly": 0.34,
+        "fossil_co2_yearly_emission": "41,281.70"
+    },
+    {
+        "country": "Paraguay",
+        "co2_yearly": 1.4,
+        "co2_monthly": 0.12,
+        "fossil_co2_yearly_emission": "9,932.60"
+    },
+    {
+        "country": "French Polynesia",
+        "co2_yearly": 3.2,
+        "co2_monthly": 0.27,
+        "fossil_co2_yearly_emission": "956.7"
+    },
+    {
+        "country": "Qatar",
+        "co2_yearly": 35.5,
+        "co2_monthly": 2.96,
+        "fossil_co2_yearly_emission": "102,618.00"
+    },
+    {
+        "country": "Reunion",
+        "co2_yearly": 3.01,
+        "co2_monthly": 0.25,
+        "fossil_co2_yearly_emission": "2736.5"
+    },
+    {
+        "country": "Romania",
+        "co2_yearly": 4.01,
+        "co2_monthly": 0.33,
+        "fossil_co2_yearly_emission": "77,289.00"
+    },
+    {
+        "country": "Russia",
+        "co2_yearly": 13.3,
+        "co2_monthly": 1.11,
+        "fossil_co2_yearly_emission": "1,909,039.30"
+    },
+    {
+        "country": "Rwanda",
+        "co2_yearly": 0.12,
+        "co2_monthly": 0.01,
+        "fossil_co2_yearly_emission": "1626.4"
+    },
+    {
+        "country": "Saudi Arabia",
+        "co2_yearly": 17.0,
+        "co2_monthly": 1.42,
+        "fossil_co2_yearly_emission": "607,907.50"
+    },
+    {
+        "country": "Serbia and Montenegro",
+        "co2_yearly": 6.1,
+        "co2_monthly": 0.51,
+        "fossil_co2_yearly_emission": "56,874.40"
+    },
+    {
+        "country": "Sudan",
+        "co2_yearly": 0.4,
+        "co2_monthly": 0.03,
+        "fossil_co2_yearly_emission": "24,523.20"
+    },
+    {
+        "country": "Senegal",
+        "co2_yearly": 0.7,
+        "co2_monthly": 0.06,
+        "fossil_co2_yearly_emission": "12,074.70"
+    },
+    {
+        "country": "Singapore",
+        "co2_yearly": 8.9,
+        "co2_monthly": 0.74,
+        "fossil_co2_yearly_emission": "53,439.70"
+    },
+    {
+        "country": "Saint Helena, Ascension andn Tristan da Cunha",
+        "co2_yearly": 4.5,
+        "co2_monthly": 0.38,
+        "fossil_co2_yearly_emission": "17.9"
+    },
+    {
+        "country": "Solomon Islands",
+        "co2_yearly": 0.5,
+        "co2_monthly": 0.04,
+        "fossil_co2_yearly_emission": "318.1"
+    },
+    {
+        "country": "Seirra leone",
+        "co2_yearly": 0.1,
+        "co2_monthly": 0.01,
+        "fossil_co2_yearly_emission": "1,099.70"
+    },
+    {
+        "country": "El Salvador",
+        "co2_yearly": 1.22,
+        "co2_monthly": 0.1,
+        "fossil_co2_yearly_emission": "7,972.40"
+    },
+    {
+        "country": "Somalia",
+        "co2_yearly": 0.1,
+        "co2_monthly": 0.01,
+        "fossil_co2_yearly_emission": "940.6"
+    },
+    {
+        "country": "Saint Pierre and Miquelon",
+        "co2_yearly": 5.3,
+        "co2_monthly": 0.44,
+        "fossil_co2_yearly_emission": "37.1"
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "co2_yearly": 0.7,
+        "co2_monthly": 0.06,
+        "fossil_co2_yearly_emission": "157.9"
+    },
+    {
+        "country": "Suriname",
+        "co2_yearly": 5.6,
+        "co2_monthly": 0.47,
+        "fossil_co2_yearly_emission": "3,289.00"
+    },
+    {
+        "country": "Slovakia",
+        "co2_yearly": 6.5,
+        "co2_monthly": 0.54,
+        "fossil_co2_yearly_emission": "35,233.20"
+    },
+    {
+        "country": "Slovenia",
+        "co2_yearly": 6.7,
+        "co2_monthly": 0.56,
+        "fossil_co2_yearly_emission": "13,946.90"
+    },
+    {
+        "country": "Sweden",
+        "co2_yearly": 3.7,
+        "co2_monthly": 0.31,
+        "fossil_co2_yearly_emission": "37,850.20"
+    },
+    {
+        "country": "Eswatini",
+        "co2_yearly": 0.9,
+        "co2_monthly": 0.08,
+        "fossil_co2_yearly_emission": "1348.9"
+    },
+    {
+        "country": "Seychelles",
+        "co2_yearly": 11.3,
+        "co2_monthly": 0.94,
+        "fossil_co2_yearly_emission": "1,095.10"
+    },
+    {
+        "country": "Syria",
+        "co2_yearly": 1.38,
+        "co2_monthly": 0.12,
+        "fossil_co2_yearly_emission": "28,237.40"
+    },
+    {
+        "country": "Turks and Caicos Islands",
+        "co2_yearly": 2.33,
+        "co2_monthly": 0.19,
+        "fossil_co2_yearly_emission": "88.4"
+    },
+    {
+        "country": "Chad",
+        "co2_yearly": 0.1,
+        "co2_monthly": 0.01,
+        "fossil_co2_yearly_emission": "2,110.40"
+    },
+    {
+        "country": "Togo",
+        "co2_yearly": 0.3,
+        "co2_monthly": 0.03,
+        "fossil_co2_yearly_emission": "2,438.00"
+    },
+    {
+        "country": "Thailand",
+        "co2_yearly": 4.1,
+        "co2_monthly": 0.34,
+        "fossil_co2_yearly_emission": "282,445.80"
+    },
+    {
+        "country": "Tajikistan",
+        "co2_yearly": 1.1,
+        "co2_monthly": 0.09,
+        "fossil_co2_yearly_emission": "10,551.30"
+    },
+    {
+        "country": "Turkmenistan",
+        "co2_yearly": 11.27,
+        "co2_monthly": 0.94,
+        "fossil_co2_yearly_emission": "69,882.90"
+    },
+    {
+        "country": "Timor- Leste",
+        "co2_yearly": 0.4,
+        "co2_monthly": 0.03,
+        "fossil_co2_yearly_emission": "572.6"
+    },
+    {
+        "country": "Tonga",
+        "co2_yearly": 1.5,
+        "co2_monthly": 0.13,
+        "fossil_co2_yearly_emission": "166.9"
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "co2_yearly": 21.2,
+        "co2_monthly": 1.77,
+        "fossil_co2_yearly_emission": "29,217.40"
+    },
+    {
+        "country": "Tunisia",
+        "co2_yearly": 3.0,
+        "co2_monthly": 0.25,
+        "fossil_co2_yearly_emission": "35,915.40"
+    },
+    {
+        "country": "Turkey",
+        "co2_yearly": 5.7,
+        "co2_monthly": 0.48,
+        "fossil_co2_yearly_emission": "481,247.50"
+    },
+    {
+        "country": "Taiwan",
+        "co2_yearly": 11.5,
+        "co2_monthly": 0.96,
+        "fossil_co2_yearly_emission": "275,574.00"
+    },
+    {
+        "country": "Tanzania",
+        "co2_yearly": 0.3,
+        "co2_monthly": 0.03,
+        "fossil_co2_yearly_emission": "16,978.70"
+    },
+    {
+        "country": "Uganda",
+        "co2_yearly": 0.2,
+        "co2_monthly": 0.02,
+        "fossil_co2_yearly_emission": "7540.3"
+    },
+    {
+        "country": "Ukraine",
+        "co2_yearly": 3.1,
+        "co2_monthly": 0.26,
+        "fossil_co2_yearly_emission": "132,541.50"
+    },
+    {
+        "country": "Uruguay",
+        "co2_yearly": 2.4,
+        "co2_monthly": 0.2,
+        "fossil_co2_yearly_emission": "8541.5"
+    },
+    {
+        "country": "United States",
+        "co2_yearly": 14.4,
+        "co2_monthly": 1.2,
+        "fossil_co2_yearly_emission": "4,853,780.20"
+    },
+    {
+        "country": "Uzbekistan",
+        "co2_yearly": 3.9,
+        "co2_monthly": 0.33,
+        "fossil_co2_yearly_emission": "132,433.50"
+    },
+    {
+        "country": "Saint Vincent and Grenadines",
+        "co2_yearly": 0.8,
+        "co2_monthly": 0.07,
+        "fossil_co2_yearly_emission": "82.8"
+    },
+    {
+        "country": "Venezuela",
+        "co2_yearly": 2.9,
+        "co2_monthly": 0.24,
+        "fossil_co2_yearly_emission": "96,924.90"
+    },
+    {
+        "country": "British Virgin Islands",
+        "co2_yearly": 2.0,
+        "co2_monthly": 0.17,
+        "fossil_co2_yearly_emission": "64.7"
+    },
+    {
+        "country": "Vietnam",
+        "co2_yearly": 3.3,
+        "co2_monthly": 0.28,
+        "fossil_co2_yearly_emission": "327,905.60"
+    },
+    {
+        "country": "Vanuatu",
+        "co2_yearly": 0.7,
+        "co2_monthly": 0.06,
+        "fossil_co2_yearly_emission": "218.1"
+    },
+    {
+        "country": "Samoa",
+        "co2_yearly": 1.8,
+        "co2_monthly": 0.15,
+        "fossil_co2_yearly_emission": "355.4"
+    },
+    {
+        "country": "Yemen",
+        "co2_yearly": 0.4,
+        "co2_monthly": 0.03,
+        "fossil_co2_yearly_emission": "12,263.20"
+    },
+    {
+        "country": "South Africa",
+        "co2_yearly": 6.6,
+        "co2_monthly": 0.55,
+        "fossil_co2_yearly_emission": "404,974.50"
+    },
+    {
+        "country": "Zambia",
+        "co2_yearly": 0.5,
+        "co2_monthly": 0.04,
+        "fossil_co2_yearly_emission": "9270.7"
+    },
+    {
+        "country": "Zimbabwe",
+        "co2_yearly": 0.6,
+        "co2_monthly": 0.05,
+        "fossil_co2_yearly_emission": "10,223.70"
+    }
+]
